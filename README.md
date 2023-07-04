@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+installation guide
+Flutter Version: 3.10.5
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/DarshitD1920/timer_app/assets/96970122/9d432532-fba1-439a-ada0-5373feb99bb0
+
